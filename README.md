@@ -1,5 +1,5 @@
 ## Olá, Mundo! 👋
-Eu me chamo Yann Luiz, gosto de jogos, musicas e quadrinhos. <br>
+Eu me chamo Yann Martins, gosto de jogos, musicas e quadrinhos. <br>
 sou formado em Arquitetura e Urbanismo e atualmente estou em transição de carreira para me tornar um desenvolvedor full-stack
 
 ##
